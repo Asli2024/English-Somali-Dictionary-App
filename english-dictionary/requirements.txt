@@ -3,4 +3,4 @@ uvicorn[standard]==0.40.0
 pydantic==2.12.5
 pydantic-settings==2.12.0
 boto3==1.41.5
-python-dotenv==1.2.1
+python-dotenv==1.2.2
