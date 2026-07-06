@@ -5,6 +5,6 @@ terraform {
     region               = "eu-west-2"
     encrypt              = true
     use_lockfile         = true
-    workspace_key_prefix = "english-dictionary"
+    workspace_key_prefix = "english-dictionary-rs"
   }
 }
